@@ -1,0 +1,33 @@
+// build.gradle
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.laptopstore'
+version = '1.0-SNAPSHOT'
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // 如果有其他依赖项，可以在这里添加
+    testImplementation 'junit:junit:4.13.2'
+}
+
+application {
+    // 将这里的主类名替换为你的主类的完整路径
+    mainClass = 'LaptopStoreApplication'
+}
+
+jar {
+    manifest {
+        attributes(
+            'Main-Class': 'LaptopStoreApplication'
+        )
+    }
+}
