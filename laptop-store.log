@@ -1,0 +1,114 @@
+2024-11-29 01:50:01.017 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Touchscreen: false
+2024-11-29 01:50:01.019 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Brand: [Acer]
+2024-11-29 01:50:01.019 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Rating (1-10): 5
+2024-11-29 01:50:01.019 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Type (ex. Student; Professional; Gaming; etc.): [Professional]
+2024-11-29 01:50:01.019 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - minPrice: 199.99
+2024-11-29 01:50:01.019 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Speed Rating (1-10): 5
+2024-11-29 01:50:01.020 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - maxPrice: 1999.99
+2024-11-29 01:50:01.058 [AWT-EventQueue-0] INFO  c.l.LaptopStoreResultsFrame - Top 3 recommended laptops indices: 0, 7, 11
+2024-11-29 01:57:58.045 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop0.jpg
+2024-11-29 01:57:58.045 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop1.jpg
+2024-11-29 01:57:58.045 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop2.jpg
+2024-11-29 01:57:58.045 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop3.jpg
+2024-11-29 01:57:58.045 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop4.jpg
+2024-11-29 01:57:58.045 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop5.jpg
+2024-11-29 01:57:58.045 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop6.jpg
+2024-11-29 01:57:58.060 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop7.jpg
+2024-11-29 01:57:58.060 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop8.jpg
+2024-11-29 01:57:58.060 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop9.jpg
+2024-11-29 01:57:58.060 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop10.jpg
+2024-11-29 01:57:58.063 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop11.jpg
+2024-11-29 01:57:58.063 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop12.jpg
+2024-11-29 01:57:58.063 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop13.jpg
+2024-11-29 01:57:58.064 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop14.jpg
+2024-11-29 01:57:58.064 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop15.jpg
+2024-11-29 01:57:58.064 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop16.jpg
+2024-11-29 01:57:58.065 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop17.jpg
+2024-11-29 01:57:58.065 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop18.jpg
+2024-11-29 01:57:58.066 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop19.jpg
+2024-11-29 01:57:58.066 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop20.jpg
+2024-11-29 01:57:58.067 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop21.jpg
+2024-11-29 01:57:58.067 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop22.jpg
+2024-11-29 01:57:58.067 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop23.jpg
+2024-11-29 01:57:58.068 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop24.jpg
+2024-11-29 01:57:58.068 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop25.jpg
+2024-11-29 01:57:58.069 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop26.jpg
+2024-11-29 01:57:58.069 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop27.jpg
+2024-11-29 01:57:58.070 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop28.jpg
+2024-11-29 01:57:58.071 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop29.jpg
+2024-11-29 01:59:10.975 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop0.jpg
+2024-11-29 01:59:10.975 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop1.jpg
+2024-11-29 01:59:10.975 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop2.jpg
+2024-11-29 01:59:10.975 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop3.jpg
+2024-11-29 01:59:10.975 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop4.jpg
+2024-11-29 01:59:10.975 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop5.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop6.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop7.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop8.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop9.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop10.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop11.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop12.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop13.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop14.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop15.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop16.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop17.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop18.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop19.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop20.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop21.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop22.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop23.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop24.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop25.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop26.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop27.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop28.jpg
+2024-11-29 01:59:10.990 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop29.jpg
+2024-11-29 01:59:29.251 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop0.jpg
+2024-11-29 01:59:29.251 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop1.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop2.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop3.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop4.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop5.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop6.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop7.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop8.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop9.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop10.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop11.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop12.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop13.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop14.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop15.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop16.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop17.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop18.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop19.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop20.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop21.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop22.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop23.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop24.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop25.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop26.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop27.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop28.jpg
+2024-11-29 01:59:29.267 [main] ERROR c.laptopstore.LaptopStoreFileInput - 无法找到图片: laptop29.jpg
+2024-11-29 02:00:26.005 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Touchscreen: false
+2024-11-29 02:00:26.007 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Rating (1-10): 5
+2024-11-29 02:00:26.007 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - OS: [Chrome]
+2024-11-29 02:00:26.007 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Type (ex. Student; Professional; Gaming; etc.): [Student]
+2024-11-29 02:00:26.007 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - minPrice: 199.99
+2024-11-29 02:00:26.007 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Speed Rating (1-10): 5
+2024-11-29 02:00:26.007 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - maxPrice: 1999.99
+2024-11-29 02:00:26.050 [AWT-EventQueue-0] INFO  c.l.LaptopStoreResultsFrame - Top 3 recommended laptops indices: 0, 2, 3
+2024-11-29 02:09:57.385 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Touchscreen: false
+2024-11-29 02:09:57.386 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Rating (1-10): 5
+2024-11-29 02:09:57.386 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - OS: [Chrome]
+2024-11-29 02:09:57.386 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Type (ex. Student; Professional; Gaming; etc.): [Student]
+2024-11-29 02:09:57.387 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - minPrice: 199.99
+2024-11-29 02:09:57.387 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - Speed Rating (1-10): 5
+2024-11-29 02:09:57.388 [AWT-EventQueue-0] INFO  c.laptopstore.LaptopStoreSurveyFrame - maxPrice: 1999.99
+2024-11-29 02:09:57.432 [AWT-EventQueue-0] INFO  c.l.LaptopStoreResultsFrame - Top 3 recommended laptops indices: 0, 2, 3
